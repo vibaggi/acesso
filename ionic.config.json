@@ -1,0 +1,7 @@
+{
+  "name": "Acesso",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
