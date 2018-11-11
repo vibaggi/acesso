@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 15.158">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="ic_keyboard_return_24px" class="cls-1" d="M23.474,7.263v5.053H6.838L11.36,7.781,9.579,6,2,13.579l7.579,7.579,1.781-1.781L6.838,14.842H26V7.263Z" transform="translate(-2 -6)"/>
+</svg>
